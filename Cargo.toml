@@ -1,0 +1,9 @@
+[package]
+name = "shrimpy"
+version = "0.0.1"
+authors = ["Brad Lugo <brad@bradlugo.com>", "Joey Drew <joey@joeydrew.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
